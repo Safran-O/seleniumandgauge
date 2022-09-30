@@ -1,0 +1,463 @@
+06-05-2022 15:12:12.939 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 15:12:12.944 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 15:12:12.945 [Gauge] [DEBUG] Found 1 files
+06-05-2022 15:12:12.971 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 15:12:12.971 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:12:12.971 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 15:12:12.971 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58996
+06-05-2022 15:12:29.627 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 15:12:29.647 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 15:12:30.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+06-05-2022 15:12:30.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+06-05-2022 15:12:30.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+06-05-2022 15:12:30.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+06-05-2022 15:12:30.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+06-05-2022 15:12:30.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+06-05-2022 15:58:24.943 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:58:24.976 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:58:24.977 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:58:53.084 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:58:53.085 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:59:42.026 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 15:59:42.027 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 15:59:43.484 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 15:59:43.485 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 15:59:47.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 15:59:47.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 15:59:48.063 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 15:59:48.096 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:00:09.203 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+06-05-2022 16:00:09.205 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<> > 
+06-05-2022 16:00:09.211 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+06-05-2022 16:00:09.211 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+06-05-2022 16:00:12.151 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Saniye Bekle" > 
+06-05-2022 16:00:12.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Saniye Bekle" parameterizedStepValue:"Saniye Bekle" > > 
+06-05-2022 16:00:13.036 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"\" Saniye Bekle" > 
+06-05-2022 16:00:13.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<> Saniye Bekle" parameters:"" > > 
+06-05-2022 16:00:14.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:00:14.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:00:15.853 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:00:15.871 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:02:50.867 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:02:50.869 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:03:00.922 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:03:00.924 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:03:20.596 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 16:03:20.600 [Gauge] [DEBUG] Found 1 files
+06-05-2022 16:03:20.605 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 16:03:20.607 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 16:03:20.607 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:03:20.607 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 16:03:20.607 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63769
+06-05-2022 16:03:30.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:03:30.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:03:30.890 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 16:03:30.891 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 16:04:18.492 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Saniye Bekle" > 
+06-05-2022 16:04:18.492 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Saniye Bekle" parameterizedStepValue:"Saniye Bekle" > > 
+06-05-2022 16:04:19.315 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+06-05-2022 16:04:19.315 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+06-05-2022 16:04:39.857 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:04:39.867 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:04:40.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:40.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:40.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:40.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:40.991 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.005 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.006 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.158 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.158 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.169 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.169 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.231 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.356 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.599 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.612 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.678 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.679 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.679 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.680 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.727 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.727 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.727 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.814 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.815 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.815 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.816 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.918 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.918 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:41.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:41.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.106 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.106 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.107 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.126 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.126 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.126 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.128 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.172 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.173 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.211 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.445 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+06-05-2022 16:04:42.445 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+06-05-2022 16:04:42.453 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+06-05-2022 16:04:42.453 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+06-05-2022 16:04:42.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.608 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.609 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.609 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.623 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.683 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.683 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.711 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.711 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.739 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.740 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.792 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.793 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.793 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.793 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.868 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.869 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.869 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.928 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.929 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.947 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:42.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:42.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.007 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.064 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.065 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.065 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.065 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.082 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.082 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.137 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.137 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.138 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.172 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:43.173 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+06-05-2022 16:04:43.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+06-05-2022 16:04:46.126 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:04:46.128 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:32:07.385 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 16:32:07.386 [Gauge] [DEBUG] Found 1 files
+06-05-2022 16:32:07.389 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 16:32:07.402 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 16:32:07.402 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:32:07.402 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 16:32:07.402 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49885
+06-05-2022 16:32:22.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+06-05-2022 16:32:22.885 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+06-05-2022 16:32:23.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 16:32:23.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 16:33:14.055 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Saniye Bekle" > 
+06-05-2022 16:33:14.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Saniye Bekle" parameterizedStepValue:"Saniye Bekle" > > 
+06-05-2022 16:33:15.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"\" Saniye Bekle" > 
+06-05-2022 16:33:15.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<> Saniye Bekle" parameters:"" > > 
+06-05-2022 16:33:16.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:33:16.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:33:19.139 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:33:19.146 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:46:01.380 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 16:46:01.383 [Gauge] [DEBUG] Found 1 files
+06-05-2022 16:46:01.389 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 16:46:01.390 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 16:46:01.390 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:46:01.390 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 16:46:01.390 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51165
+06-05-2022 16:46:02.132 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:46:02.132 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:46:02.132 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:46:02.133 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:46:11.730 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 16:46:11.731 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 16:46:11.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+06-05-2022 16:46:11.758 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+06-05-2022 16:55:30.033 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 16:55:30.034 [Gauge] [DEBUG] Found 1 files
+06-05-2022 16:55:30.037 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 16:55:30.038 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 16:55:30.038 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 16:55:30.038 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 16:55:30.038 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52135
+06-05-2022 16:55:42.992 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:55:42.993 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:55:43.009 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:55:43.010 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:55:43.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" Saniye Bekle" > 
+06-05-2022 16:55:43.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<3> Saniye Bekle" parameters:"3" > > 
+06-05-2022 16:55:47.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 16:55:47.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 16:55:47.224 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+06-05-2022 16:55:47.224 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+06-05-2022 17:03:29.124 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 17:03:29.126 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 17:05:19.165 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 17:05:19.167 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 17:05:22.808 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+06-05-2022 17:05:22.808 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+06-05-2022 17:05:22.811 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+06-05-2022 17:05:22.811 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+06-05-2022 17:05:26.873 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 17:05:26.880 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 23:13:29.321 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 23:13:29.326 [Gauge] [DEBUG] Found 1 files
+06-05-2022 23:13:29.367 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 23:13:29.468 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 23:13:29.468 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 23:13:29.468 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 23:13:29.469 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53644
+06-05-2022 23:13:29.455 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 23:15:50.067 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+06-05-2022 23:15:50.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+06-05-2022 23:15:50.093 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 23:15:50.094 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 23:28:04.810 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+06-05-2022 23:28:04.811 [Gauge] [DEBUG] Found 1 files
+06-05-2022 23:28:04.814 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 23:28:04.815 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 23:28:04.816 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+06-05-2022 23:28:04.816 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 23:28:04.816 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53805
+06-05-2022 23:28:18.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+06-05-2022 23:28:18.411 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+06-05-2022 23:28:18.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+06-05-2022 23:28:18.447 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 08:58:39.165 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 08:58:39.168 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 08:58:39.168 [Gauge] [DEBUG] Found 1 files
+11-05-2022 08:58:39.180 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 08:58:39.180 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 08:58:39.180 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 08:58:39.180 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59448
+11-05-2022 08:58:39.179 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 08:58:52.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 08:58:52.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 08:58:52.592 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 08:58:52.607 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 09:01:46.460 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 09:01:46.461 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 09:01:46.461 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 09:01:46.461 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 09:01:46.461 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59762
+11-05-2022 09:01:46.463 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 09:01:46.463 [Gauge] [DEBUG] Found 1 files
+11-05-2022 09:01:47.052 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 09:01:47.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 09:01:57.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 09:01:57.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 09:01:57.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 09:01:57.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 09:01:57.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 09:01:57.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 09:03:55.615 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 09:03:55.621 [Gauge] [DEBUG] Found 1 files
+11-05-2022 09:03:55.622 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 09:03:55.623 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 09:03:55.623 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 09:03:55.623 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 09:03:55.623 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59983
+11-05-2022 09:04:05.528 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 09:04:05.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 09:04:05.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 09:04:05.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 09:04:07.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 09:04:07.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 09:04:07.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 09:04:07.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 09:04:07.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 09:04:07.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 11:10:46.042 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 11:10:46.043 [Gauge] [DEBUG] Found 1 files
+11-05-2022 11:10:46.045 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 11:10:46.054 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 11:10:46.054 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 11:10:46.054 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 11:10:46.054 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 11:10:46.054 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55522
+11-05-2022 11:10:46.693 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 11:10:46.693 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 11:10:46.697 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 11:10:46.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 11:10:48.813 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 11:10:48.813 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 11:10:48.839 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 11:10:48.839 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 14:06:02.875 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 14:06:02.884 [Gauge] [DEBUG] Found 1 files
+11-05-2022 14:06:02.887 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 14:06:02.892 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 14:06:02.892 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 14:06:02.893 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 14:06:02.893 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 14:06:02.893 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52307
+11-05-2022 14:06:03.813 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 14:06:03.813 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 14:06:03.814 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 14:06:03.814 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 14:06:16.910 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 14:06:16.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 14:06:16.922 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 14:06:16.922 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 14:06:16.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 14:06:16.953 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 14:09:25.511 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 14:09:25.511 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 14:09:25.512 [Gauge] [DEBUG] Found 1 files
+11-05-2022 14:09:25.516 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 14:09:25.516 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 14:09:25.516 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 14:09:25.516 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52668
+11-05-2022 14:09:26.126 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 14:09:26.126 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 14:09:30.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 14:09:30.576 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 14:09:30.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 14:09:30.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+11-05-2022 15:26:40.845 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 15:26:40.846 [Gauge] [DEBUG] Found 1 files
+11-05-2022 15:26:40.856 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 15:26:40.857 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 15:26:40.857 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 15:26:40.857 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 15:26:40.857 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56079
+11-05-2022 15:26:40.861 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 16:40:43.522 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+11-05-2022 16:40:43.522 [Gauge] [DEBUG] Found 1 files
+11-05-2022 16:40:43.524 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-05-2022 16:40:43.525 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 16:40:43.526 [Gauge] [INFO] Initializing specs cache with 1 specs
+11-05-2022 16:40:43.526 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+11-05-2022 16:40:43.526 [Gauge] [INFO] Initializing steps cache with 1 steps
+11-05-2022 16:40:43.526 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50326
+11-05-2022 16:40:44.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 16:40:44.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 16:40:44.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+11-05-2022 16:40:44.985 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+11-05-2022 16:40:54.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+11-05-2022 16:40:54.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+12-05-2022 15:17:18.195 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 15:17:18.196 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+12-05-2022 15:17:18.196 [Gauge] [DEBUG] Found 1 files
+12-05-2022 15:17:18.206 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+12-05-2022 15:17:18.207 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 15:17:18.207 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+12-05-2022 15:17:18.207 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 15:17:18.207 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61344
+12-05-2022 15:17:36.316 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+12-05-2022 15:17:36.316 [Gauge] [DEBUG] Found 1 files
+12-05-2022 15:17:36.319 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 15:17:36.319 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 15:17:36.319 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+12-05-2022 15:17:36.319 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 15:17:36.319 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61398
+12-05-2022 15:18:29.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+12-05-2022 15:18:29.166 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+12-05-2022 15:18:29.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+12-05-2022 15:18:29.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+16-05-2022 12:52:07.725 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+16-05-2022 12:52:07.726 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs
+16-05-2022 12:52:07.727 [Gauge] [DEBUG] Found 1 files
+16-05-2022 12:52:07.743 [Gauge] [INFO] Spec file added / modified: C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+16-05-2022 12:52:07.744 [Gauge] [INFO] Initializing specs cache with 1 specs
+16-05-2022 12:52:07.744 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\IdeaProjects\com.lcw.test\specs\example.spec
+16-05-2022 12:52:07.745 [Gauge] [INFO] Initializing steps cache with 1 steps
+16-05-2022 12:52:07.745 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55784
+16-05-2022 12:52:11.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+16-05-2022 12:52:11.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+16-05-2022 12:52:11.374 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+16-05-2022 12:52:11.374 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+16-05-2022 12:52:18.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+16-05-2022 12:52:18.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+16-05-2022 12:52:18.470 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+16-05-2022 12:52:18.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+16-05-2022 12:52:18.470 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+16-05-2022 12:52:18.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+30-09-2022 17:26:34.615 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-09-2022 17:26:34.626 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\Desktop\Eğitim\Testinium\Gauge\com.lcw.test\specs
+30-09-2022 17:26:34.627 [Gauge] [DEBUG] Found 1 files
+30-09-2022 17:26:34.629 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-09-2022 17:26:34.629 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\Desktop\Eğitim\Testinium\Gauge\com.lcw.test\specs\example.spec
+30-09-2022 17:26:34.629 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-09-2022 17:26:34.629 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56825
+30-09-2022 17:26:35.075 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+30-09-2022 17:26:35.090 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\Logiwa Onur\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.3\\libs" > 
+30-09-2022 17:26:43.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+30-09-2022 17:26:43.346 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+30-09-2022 17:26:43.363 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+30-09-2022 17:26:43.370 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+30-09-2022 17:27:01.823 [Gauge] [INFO] Watching directory: C:\Users\Logiwa Onur\Desktop\Eğitim\Testinium\Gauge\com.lcw.test\specs
+30-09-2022 17:27:01.823 [Gauge] [DEBUG] Found 1 files
+30-09-2022 17:27:01.827 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-09-2022 17:27:01.829 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-09-2022 17:27:01.829 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\Desktop\Eğitim\Testinium\Gauge\com.lcw.test\specs\example.spec
+30-09-2022 17:27:01.829 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-09-2022 17:27:01.829 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56858
