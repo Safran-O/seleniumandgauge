@@ -461,3 +461,264 @@
 30-09-2022 17:27:01.829 [Gauge] [DEBUG] Adding specs from C:\Users\Logiwa Onur\Desktop\Eğitim\Testinium\Gauge\com.lcw.test\specs\example.spec
 30-09-2022 17:27:01.829 [Gauge] [INFO] Initializing steps cache with 1 steps
 30-09-2022 17:27:01.829 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56858
+28-10-2022 21:03:08.341 [Gauge] [INFO] Watching directory: C:\Project\seleniumandgauge\specs
+28-10-2022 21:03:08.342 [Gauge] [DEBUG] Found 1 files
+28-10-2022 21:03:08.344 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+28-10-2022 21:03:08.344 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-10-2022 21:03:08.344 [Gauge] [DEBUG] Adding specs from C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:03:08.344 [Gauge] [INFO] Initializing steps cache with 1 steps
+28-10-2022 21:03:08.344 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50721
+28-10-2022 21:03:09.825 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> Saniye Bekle" > 
+28-10-2022 21:03:09.825 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+28-10-2022 21:03:09.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"5 Saniye Bekle" > 
+28-10-2022 21:03:09.840 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+28-10-2022 21:06:00.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:06:00.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:06:00.579 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:06:00.579 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:06:00.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:06:00.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:06:03.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"T" > 
+28-10-2022 21:06:03.810 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"T" parameterizedStepValue:"T" > > 
+28-10-2022 21:06:04.818 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"T\304\261kla" > 
+28-10-2022 21:06:04.821 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"T\304\261kla" parameterizedStepValue:"T\304\261kla" > > 
+28-10-2022 21:06:11.344 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"T\304\261kla " > 
+28-10-2022 21:06:11.350 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"T\304\261kla" parameterizedStepValue:"T\304\261kla" > > 
+28-10-2022 21:06:16.690 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"T\304\261kla <>" > 
+28-10-2022 21:06:16.690 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"T\304\261kla {}" parameterizedStepValue:"T\304\261kla <>" parameters:"" > > 
+28-10-2022 21:06:25.724 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<<T\304\261kla" > 
+28-10-2022 21:06:25.728 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-10-2022 21:06:25.737 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<<T\304\261kla" > 
+28-10-2022 21:06:25.737 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-10-2022 21:06:25.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<<T\304\261kla" > 
+28-10-2022 21:06:25.740 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-10-2022 21:06:26.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<T\304\261kla" > 
+28-10-2022 21:06:26.347 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-10-2022 21:06:26.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<T\304\261kla" > 
+28-10-2022 21:06:26.356 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-10-2022 21:06:26.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<T\304\261kla" > 
+28-10-2022 21:06:26.361 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-10-2022 21:06:26.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<>T\304\261kla" > 
+28-10-2022 21:06:26.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}T\304\261kla" parameterizedStepValue:"<>T\304\261kla" parameters:"" > > 
+28-10-2022 21:06:27.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> T\304\261kla" > 
+28-10-2022 21:06:27.346 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} T\304\261kla" parameterizedStepValue:"<> T\304\261kla" parameters:"" > > 
+28-10-2022 21:06:28.735 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> alan\304\261na T\304\261kla" > 
+28-10-2022 21:06:28.740 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na T\304\261kla" parameterizedStepValue:"<> alan\304\261na T\304\261kla" parameters:"" > > 
+28-10-2022 21:06:30.085 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> alan\304\261na t\304\261klaT\304\261kla" > 
+28-10-2022 21:06:30.088 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261klaT\304\261kla" parameterizedStepValue:"<> alan\304\261na t\304\261klaT\304\261kla" parameters:"" > > 
+28-10-2022 21:06:30.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> alan\304\261na t\304\261kla T\304\261kla" > 
+28-10-2022 21:06:30.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla T\304\261kla" parameterizedStepValue:"<> alan\304\261na t\304\261kla T\304\261kla" parameters:"" > > 
+28-10-2022 21:06:44.687 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<K> alan\304\261na t\304\261kla T\304\261kla" > 
+28-10-2022 21:06:44.688 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla T\304\261kla" parameterizedStepValue:"<K> alan\304\261na t\304\261kla T\304\261kla" parameters:"K" > > 
+28-10-2022 21:06:45.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> alan\304\261na t\304\261kla T\304\261kla" > 
+28-10-2022 21:06:45.195 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla T\304\261kla" parameterizedStepValue:"<Key> alan\304\261na t\304\261kla T\304\261kla" parameters:"Key" > > 
+28-10-2022 21:07:08.743 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> alan\304\261na t\304\261kla \304\261kla" > 
+28-10-2022 21:07:08.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla \304\261kla" parameterizedStepValue:"<Key> alan\304\261na t\304\261kla \304\261kla" parameters:"Key" > > 
+28-10-2022 21:07:09.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> alan\304\261na t\304\261kla t\304\261kla" > 
+28-10-2022 21:07:09.608 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla t\304\261kla" parameterizedStepValue:"<Key> alan\304\261na t\304\261kla t\304\261kla" parameters:"Key" > > 
+28-10-2022 21:07:10.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> alan\304\261na t\304\261k\304\261kla" > 
+28-10-2022 21:07:10.528 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261k\304\261kla" parameterizedStepValue:"<Key> alan\304\261na t\304\261k\304\261kla" parameters:"Key" > > 
+28-10-2022 21:07:11.107 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Key> alan\304\261na t\304\261kla" > 
+28-10-2022 21:07:11.107 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla" parameterizedStepValue:"<Key> alan\304\261na t\304\261kla" parameters:"Key" > > 
+28-10-2022 21:08:19.318 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> alan\304\261na t\304\261kla" > 
+28-10-2022 21:08:19.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na t\304\261kla" parameterizedStepValue:"<> alan\304\261na t\304\261kla" parameters:"" > > 
+28-10-2022 21:08:20.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" alan\304\261na t\304\261kla" > 
+28-10-2022 21:08:20.620 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"alan\304\261na t\304\261kla" parameterizedStepValue:"alan\304\261na t\304\261kla" > > 
+28-10-2022 21:08:21.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na t\304\261kla" > 
+28-10-2022 21:08:21.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na t\304\261kla" parameterizedStepValue:"Arama alan\304\261na t\304\261kla" > > 
+28-10-2022 21:08:23.468 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama k\304\261 alan\304\261na t\304\261kla" > 
+28-10-2022 21:08:23.474 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama k\304\261 alan\304\261na t\304\261kla" parameterizedStepValue:"Arama k\304\261 alan\304\261na t\304\261kla" > > 
+28-10-2022 21:08:24.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > 
+28-10-2022 21:08:24.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" parameterizedStepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > > 
+28-10-2022 21:08:29.911 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:08:29.921 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:08:32.314 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:08:32.314 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+28-10-2022 21:08:32.317 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:08:32.317 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:08:39.890 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" 5 Saniye Bekle" > 
+28-10-2022 21:08:39.892 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+28-10-2022 21:08:41.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > 
+28-10-2022 21:08:41.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" parameterizedStepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > > 
+28-10-2022 21:08:42.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" <Key> Saniye Bekle" > 
+28-10-2022 21:08:42.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Key> Saniye Bekle" parameters:"Key" > > 
+28-10-2022 21:08:44.850 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:08:44.851 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:49.056 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:49.066 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:52.109 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:12:52.109 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+28-10-2022 21:12:52.110 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:12:52.110 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:12:53.728 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:53.729 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:54.378 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:54.388 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:55.444 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:55.454 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:12:56.587 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:12:56.588 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+28-10-2022 21:12:56.588 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:12:56.589 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:12:59.412 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:12:59.412 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > > 
+28-10-2022 21:12:59.414 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:12:59.414 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:13:02.592 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:13:02.600 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:15:24.512 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:15:24.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:15:24.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:15:24.517 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:15:24.524 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:15:24.525 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:15:30.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na " > 
+28-10-2022 21:15:30.203 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na" parameterizedStepValue:"Arama alan\304\261na" > > 
+28-10-2022 21:15:33.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti" > 
+28-10-2022 21:15:33.348 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti" parameterizedStepValue:"Arama alan\304\261na ti" > > 
+28-10-2022 21:15:34.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti\305\237" > 
+28-10-2022 21:15:34.048 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti\305\237" parameterizedStepValue:"Arama alan\304\261na ti\305\237" > > 
+28-10-2022 21:15:35.533 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti\305\237\303\266rt " > 
+28-10-2022 21:15:35.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt" parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt" > > 
+28-10-2022 21:15:36.788 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti\305\237\303\266rt de\304\237er" > 
+28-10-2022 21:15:36.788 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237er" parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237er" > > 
+28-10-2022 21:15:37.751 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini " > 
+28-10-2022 21:15:37.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini" parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini" > > 
+28-10-2022 21:15:39.713 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yollar." > 
+28-10-2022 21:15:39.715 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yollar." parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yollar." > > 
+28-10-2022 21:15:40.652 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" > 
+28-10-2022 21:15:40.668 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" > > 
+28-10-2022 21:15:52.537 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:15:52.549 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:15:54.557 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:15:54.559 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > allSteps:<stepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" parameterizedStepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > > 
+28-10-2022 21:15:54.559 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:15:54.559 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:16:01.124 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:16:01.131 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:16:28.411 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:16:28.419 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:16:50.686 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search  t\304\261kla" > 
+28-10-2022 21:16:50.687 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search  t\304\261kla" parameterizedStepValue:"Search  t\304\261kla" > > 
+28-10-2022 21:16:52.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search butonuna t\304\261kla" > 
+28-10-2022 21:16:52.343 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search butonuna t\304\261kla" parameterizedStepValue:"Search butonuna t\304\261kla" > > 
+28-10-2022 21:18:33.636 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:18:33.637 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:19:04.627 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:19:04.633 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:19:07.346 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:19:07.346 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > allSteps:<stepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" parameterizedStepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > allSteps:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" > allSteps:<stepValue:"Search butonuna t\304\261kla" parameterizedStepValue:"Search butonuna t\304\261kla" > > 
+28-10-2022 21:19:07.347 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:19:07.347 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:19:10.314 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Ke> Saniye Bekle" > 
+28-10-2022 21:19:10.320 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<Ke> Saniye Bekle" parameters:"Ke" > > 
+28-10-2022 21:19:10.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<K> Saniye Bekle" > 
+28-10-2022 21:19:10.510 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<K> Saniye Bekle" parameters:"K" > > 
+28-10-2022 21:19:11.813 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<1> Saniye Bekle" > 
+28-10-2022 21:19:11.813 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<1> Saniye Bekle" parameters:"1" > > 
+28-10-2022 21:19:11.881 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<15> Saniye Bekle" > 
+28-10-2022 21:19:11.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<15> Saniye Bekle" parameters:"15" > > 
+28-10-2022 21:19:21.700 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:19:21.710 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:19:22.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.742 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:22.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.750 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:22.881 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:22.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:22.934 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.934 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:22.936 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.936 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:22.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:22.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.057 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.072 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.179 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.179 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.220 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.220 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.697 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:23.702 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:23.719 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-10-2022 21:19:23.727 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" parameterizedStepValue:"Arama alan\304\261na ti\305\237\303\266rt de\304\237erini yolla" > allSteps:<stepValue:"Search butonuna t\304\261kla" parameterizedStepValue:"Search butonuna t\304\261kla" > allSteps:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<15> Saniye Bekle" parameters:"15" > allSteps:<stepValue:"5 Saniye Bekle" parameterizedStepValue:"5 Saniye Bekle" > allSteps:<stepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" parameterizedStepValue:"Arama k\304\261sm\304\261na alan\304\261na t\304\261kla" > > 
+28-10-2022 21:19:23.728 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-10-2022 21:19:23.728 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-10-2022 21:19:24.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.224 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.225 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.226 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.735 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.738 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.739 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.739 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.749 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.749 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.831 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.831 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.831 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.831 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.866 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.866 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.867 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.867 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.902 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.902 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.902 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.902 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.935 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:24.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:24.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.007 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.045 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.106 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.114 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:25.114 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-10-2022 21:19:25.114 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-10-2022 21:19:27.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<2> Saniye Bekle" > 
+28-10-2022 21:19:27.478 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniye Bekle" parameterizedStepValue:"<2> Saniye Bekle" parameters:"2" > > 
+28-10-2022 21:19:30.082 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:19:30.088 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:20:16.997 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:20:17.007 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:21:56.310 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec
+28-10-2022 21:21:56.311 [Gauge] [INFO] Spec file added / modified: C:\Project\seleniumandgauge\specs\example.spec

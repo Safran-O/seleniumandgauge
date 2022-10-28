@@ -6,3 +6,6 @@ To execute this specification, use `mvn test`
 Anasayfaya giris
 ----------------
 *5 Saniye Bekle
+*Arama kısmına alanına tıkla
+*Arama alanına tişört değerini yolla
+*5 Saniye Bekle
