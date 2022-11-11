@@ -1,0 +1,13 @@
+Created by onur on 11/11/2022
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı adı <username> ve sifre bilgisi <password> ile login islemini tamamla
+*"1" Saniye Bekle
+*Id li "user_1_" elemente tıkla
+*"1" Saniye Bekle
+*Name li "email" elemente bul ve <username> degerini yaz
+*"1" Saniye Bekle
+*Name li "password" elemente bul ve <password> degerini yaz
+*"1" Saniye Bekle
+*Xpath li "//*[@class='login-form__button login-form__button--bg-blue']" elemente tıkla
+
