@@ -18,5 +18,5 @@ Tags:DynamicValue
 Login
 --------------------
 Tags:Login_Operation
-*Kullanıcı adı "onursafran@outlook.com" ve sifre bilgisi "343260367On.." ile login islemini tamamla
+*Kullanıcı adı "use your mail" ve sifre bilgisi "use your password.." ile login islemini tamamla
 
